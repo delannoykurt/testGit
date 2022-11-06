@@ -1,2 +1,3 @@
 petit test 
 le langage javascript dechire !
+realisation de differtents challenges pour mieux reussir a assimile ce langage.
